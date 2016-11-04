@@ -10,3 +10,5 @@ Third  README edit
 -bullet2
 
 This is a change from my computer I will push to github 
+
+This is a change i will pull from github
