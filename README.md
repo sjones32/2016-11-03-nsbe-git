@@ -8,5 +8,3 @@ heckie yeck
 
 -bullet1
 -bullet2
-
-This is a change I do not want saved
